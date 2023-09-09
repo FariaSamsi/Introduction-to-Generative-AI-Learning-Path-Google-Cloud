@@ -1,0 +1,2 @@
+# Introduction-to-Generative-AI-Learning-Path-Google-Cloud
+This repository contains the learned materials from the google cloud skills boost learning path "Introduction to Generative AI". The Learning path contains 5 courses. Learnt materials from each course is noted in 5 different folders. Each folder name indicates the name of the course and each readme file contains the notes from that course.  
